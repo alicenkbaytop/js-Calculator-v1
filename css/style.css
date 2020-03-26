@@ -1,0 +1,34 @@
+/* container */
+.container{
+    background: #ebfafa;
+    border: black solid thin;
+    border-radius: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%)translateY(-50%);
+}
+/* buttons */
+.button{
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    margin: 2px;
+    cursor: pointer;
+    background: #8ba7c3;
+    border: black solid thin;
+    border-radius: 5px;
+    color: #04102f;
+    text-align: center;
+}
+/* top field */
+.text{
+    width: 212px;
+    margin: 5px;
+    font-size: 25px;
+    padding: 5px;
+    border: black solid thin;
+    background: #e6ecff;
+    text-align: right;
+    color: #04102f;
+}
